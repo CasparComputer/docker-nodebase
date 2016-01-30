@@ -1,4 +1,4 @@
-casparcomputer/docker-nodebase
+# casparcomputer/docker-nodebase
 
 This will be an automated Docker Build Repository for Dockerhub
 
@@ -21,10 +21,10 @@ This will be an automated Docker Build Repository for Dockerhub
  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-- Base Image includes
+# Base Image includes
 
-node-js 5.5.0
-pm2
+- node-js 5.5.0
+- pm2
 
 Does not have any ports open by default
 
