@@ -1,6 +1,6 @@
 # Dockerfile to create a nodejs image with pm2 installed
 
-FROM ubuntu:16.04
+FROM ubuntu:14.04.3
 
 RUN apt-get update; apt-get -y upgrade
 
