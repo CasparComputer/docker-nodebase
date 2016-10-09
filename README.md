@@ -23,8 +23,8 @@ This will be an automated Docker Build Repository for Dockerhub
 
 # Base Image includes
 
-- node-js 5.5.0
-- pm2
+- node-js 6.5.0
+- pm2 
 
 Does not have any ports open by default
 
