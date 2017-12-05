@@ -3,7 +3,7 @@
 This will be an automated Docker Build Repository for Dockerhub
 
  The MIT License (MIT)
- Copyright (c) 2016 Caspar Computer Services Inc.
+ Copyright (c) 2017 Caspar Computer Services Inc.
 
  Permission is hereby granted, free of charge, to any person obtaining a copy of this software
  and associated documentation files (the "Software"), to deal in the Software without restriction,
@@ -20,11 +20,14 @@ This will be an automated Docker Build Repository for Dockerhub
  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+# Important notice
+Please determine the licensing requirements for node and pm2 to confirm suitability for your sitation.
+
 
 # Base Image includes
 
-- node-js 6.x
-- pm2 
+- node-js 8.x
+- pm2
 
 Does not have any ports open by default
 
