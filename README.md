@@ -23,7 +23,6 @@ This will be an automated Docker Build Repository for Dockerhub
 # Important notice
 Please determine the licensing requirements for node and pm2 to confirm suitability for your sitation.
 
-/
 # Base Image includes
 
 - node-js 8.x
