@@ -14,4 +14,4 @@ RUN apt-get install -y nodejs
 
 RUN npm install pm2 -g
 
-RUN sudo env PATH=$PATH:/usr/local/bin pm2 startup -u safeuser
+RUN sudo env PATH=$PATH:/usr/local/bin pm2 startup upstart
