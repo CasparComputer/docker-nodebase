@@ -23,12 +23,15 @@ This will be an automated Docker Build Repository for Dockerhub
 # Important notice
 Please determine the licensing requirements for node and pm2 to confirm suitability for your sitation.
 
-
+/
 # Base Image includes
 
 - node-js 8.x
 - pm2
 
 Does not have any ports open by default
+
+To pull node 6.x, use docker pull casparcomputer/docker-nodebase:node6x
+To pull node 8.x, use docker pull casparcomputer/docker-nodebase:node8x
 
 
